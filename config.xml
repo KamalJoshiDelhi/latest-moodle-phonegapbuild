@@ -9,10 +9,10 @@
     <name>Gyan Sudha</name>
 
     <description>
-        Official Training APP Quintessence
+        mLearn APP by GyanSudha
     </description>
 
-    <author href="https:quint-essence.com" email="gyanshudha@quint-essence.com">
+    <author href="https://quint-essence.com" email="gyanshudha@quint-essence.com">
         Gyan Sudha Team
     </author>
 
@@ -189,7 +189,7 @@
 
     <!-- Disable firebase analytics. -->
     <config-file target="AndroidManifest.xml" parent="/manifest/application">
-        <meta-data android:name="firebase_analytics_collection_deactivated" android:value="true" />
+        <meta-data android:name="firebase_analytics_collection_deactivated" android:value="false" />
     </config-file>
     <config-file target="*-Info.plist" parent="FIREBASE_ANALYTICS_COLLECTION_DEACTIVATED">
         <string>YES</string>
