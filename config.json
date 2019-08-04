@@ -1,5 +1,5 @@
 {
-    "app_id": "com.quint-essence.gyansudha",
+    "app_id": "com.quintessence.gyansudha",
     "appname": "Gyan Sudha",
     "desktopappname": "Gyan Sudha",
     "versioncode": 3700,
@@ -59,8 +59,8 @@
     "demo_sites": {},
     "customurlscheme": "moodlemobile",
     "siteurl": "https://trainings.quint-essence.com/",
-    "sitename": "",
-    "multisitesdisplay": "select",
+    "sitename": "Gyan Sudha",
+    "multisitesdisplay": "false",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
