@@ -56,7 +56,6 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "presets" : {"url": "https://trainings.quint-essence.com/"},
     "demo_sites": {},
     "customurlscheme": "moodlemobile",
     "siteurl": "https://trainings.quint-essence.com/",
