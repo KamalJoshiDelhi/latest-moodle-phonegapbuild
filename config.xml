@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.quintessence.gyansudha"
-        versionCode = "37000"
+        versionCode = "200815"
         android-versionCode="200815"
         version   = "20.08.15">
     <name>Gyan Sudha</name>
